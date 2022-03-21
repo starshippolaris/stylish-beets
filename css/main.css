@@ -40,3 +40,33 @@ a:hover {
   font-size: .8rem;
   line-height: normal;
 }
+
+h2 {
+  color: #3f1622;
+  font-family: "PT Sans", sans-serif;
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+
+figure {
+  display: inline-block;
+  text-align: center;
+}
+
+img {
+  vertical-align: top;
+  width: 100%;
+  height: auto;
+}
+
+figcaption {
+  font-style: italic;
+  font-size: .8rem;
+  font-family: "PT Serif", serif;
+}
+
+.bold {
+  font-weight: bold;
+  font-size: 1.125rem;
+  font-family: "PT Serif", serif;
+}
