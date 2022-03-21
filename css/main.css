@@ -1,7 +1,7 @@
 html {
   background-color: #c9b5ab;
   line-height: 1.5;
-  box-sizing: inherit;
+  box-sizing: 1.5;
 }
 
 *, *::before, *::after {
