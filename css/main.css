@@ -25,3 +25,18 @@ a:hover {
   color: #3f1622;
   text-decoration: underline;
 }
+
+.no-number {
+  list-style: none;
+}
+
+.wiki:hover {
+  color: #3f1622;
+}
+
+.wiki {
+  color: #8f2440;
+  text-decoration: underline;
+  font-size: .8rem;
+  line-height: normal;
+}
