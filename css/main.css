@@ -71,3 +71,31 @@ figcaption {
   font-size: 1.125rem;
   font-family: "PT Serif", serif;
 }
+
+p {
+  font-family: "PT Serif", serif;
+  font-weight: normal;
+  font-size: 1rem;
+}
+
+dt {
+  font-family: "PT Serif", serif;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+ul {
+  font-size: 1rem;
+  list-style-type: circle;
+}
+
+.varieties {
+  font-family: "PT Serif", serif;
+}
+
+.quote {
+  font-family: "PT Serif", serif;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 2rem;
+}
