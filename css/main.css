@@ -1,5 +1,6 @@
 html {
-  background-color: #c9b5ab
+  background-color: #c9b5ab;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
